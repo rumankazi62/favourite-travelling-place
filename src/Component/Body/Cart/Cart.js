@@ -10,7 +10,7 @@ const Cart = (props) => {
 
   return (
     <div>
-      <h4>Place Added: {card.length}</h4>
+      <h4>Travelling Place Added: {card.length}</h4>
         <h4>Total Cost: {total.toFixed(2)}K</h4>
         {
           card.map(item => <Item items={item}></Item>)
