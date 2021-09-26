@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Why you use this website!!
+
+This website shows some of your favorite sights.
+From here you can select the places of your choice according to your budget.
+You can see how much it will cost you every day.
+
 ## Available Scripts
 
 In the project directory, you can run:
