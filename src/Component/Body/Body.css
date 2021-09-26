@@ -1,17 +1,16 @@
 .body {
-  padding-top: 20px;
+  padding: 20px;
   display: flex;
 }
 .cost-container {
   width: 25%;
   float: right;
-  position: fixed;
   right: 0;
 }
 .cards-container {
   width: 75%;
+  padding-right: 10px;
   float: left;
-  border-right: 1px solid rgb(24, 24, 24);
   display: grid;
   grid-template-columns: repeat(3, 1fr);
 }

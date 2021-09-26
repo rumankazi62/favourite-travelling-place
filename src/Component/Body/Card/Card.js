@@ -11,7 +11,7 @@ const Card = (props) => {
       <p className="card-text">Division: {division}</p>
       <p className="card-text">Country: {country}</p>
       <p className="card-text">Avg. Cost: {cost}K per day</p> 
-      <button onClick={() => props.click(props.card)} className="button">Add Cost</button>
+      <button onClick={() => props.click(props.card)} className="button"><i className="fas fa-cart-arrow-down"></i> Add Cost</button>
       </div>
   );
 };

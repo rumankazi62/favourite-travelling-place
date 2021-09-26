@@ -1,0 +1,25 @@
+.items {
+  width: 75%;
+  margin: auto;
+}
+.select-item {
+  display: flex;
+  padding: 5px;
+  margin: 5px 0px;
+  background-color: wheat;
+  color: darkblue;
+}
+.select-item img {
+  float: left;
+  width: 25%;
+  height: 35px;
+}
+.select-item p {
+  width: 50%;
+  float: right;
+  padding-left: 10px;
+}
+.mark-icon {
+  width: 25%;
+  color: rgb(37, 150, 47);
+}
