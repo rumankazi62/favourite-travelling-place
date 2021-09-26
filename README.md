@@ -1,6 +1,6 @@
 # Favourite travelling place
 
-This project was bootstrapped with [Create React App](https://favourite-travelling-place.netlify.app/).
+This project was bootstrapped with [Favourite travelling place](https://favourite-travelling-place.netlify.app/).
 
 ## Why you use this website!!
 
