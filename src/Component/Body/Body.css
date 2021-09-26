@@ -1,0 +1,12 @@
+.body {
+  margin-top: 20px;
+  display: flex;
+}
+.cost-container {
+  width: 25%;
+  float: right;
+}
+.card-container {
+  width: 75%;
+  float: left;
+}
