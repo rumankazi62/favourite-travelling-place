@@ -1,6 +1,6 @@
 # Favourite travelling place
 
-This project was bootstrapped with [Favourite travelling place](https://favourite-travelling-place.netlify.app/).
+This project was javascript with [Favourite travelling place](https://favourite-travelling-place.netlify.app/).
 
 ## Why you use this website!!
 
