@@ -1,1 +1,22 @@
-
+.single-card {
+  background-color: wheat;
+  margin: 10px;
+  padding: 10px;
+  box-shadow: 5px -2px 14px 1px #686868;
+}
+.single-card img {
+  width: 90%;
+  height: 40%;
+  border-radius: 100%;
+}
+.single-card p {
+  font-weight: 600;
+  color: darkblue;
+}
+.button {
+  background-color: saddlebrown;
+  color: white;
+  padding: 5px 15px;
+  border: none;
+  border-radius: 10px;
+}

@@ -1,12 +1,20 @@
 .body {
-  margin-top: 20px;
+  padding-top: 20px;
   display: flex;
 }
 .cost-container {
   width: 25%;
   float: right;
+  position: fixed;
+  right: 0;
 }
-.card-container {
+.cards-container {
   width: 75%;
   float: left;
+  border-right: 1px solid rgb(24, 24, 24);
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+.cost-container h4 {
+  color: darkblue;
 }
