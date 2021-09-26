@@ -1,10 +1,10 @@
 # Favourite travelling place
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://favourite-travelling-place.netlify.app/).
 
 ## Why you use this website!!
 
-This website shows some of your favorite sights.
+This website shows some of your favorite place.
 From here you can select the places of your choice according to your budget.
 You can see how much it will cost you every day.
 
